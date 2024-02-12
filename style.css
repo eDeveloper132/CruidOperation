@@ -1,0 +1,36 @@
+body
+{
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#146,#220,#126);
+}
+section
+{
+    width: 80vw;
+    height: 80vh;
+    padding: auto;
+    align-items: center;
+}
+form label
+{
+    color: white;
+}
+.but
+{
+    border: 1px solid black;
+    width: 100%;
+}
+.but:hover
+{
+    color: gray;
+    border: gray;
+    background-color: gray;
+}
+.formdiv
+{
+    border: 1px solid black;
+    margin-left: 200px;
+}
